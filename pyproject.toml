@@ -1,0 +1,7 @@
+[project]
+name = "adhkar-py-asma-ul-husna-lexicon"
+version = "1.0.0"
+description = "99 Names of Allah (Al-Asma' Al-Husna) Morphological & Quranic Lexicon (موسوعة أسماء الله الحسنى التسعة والتسعين ومعانيها)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
